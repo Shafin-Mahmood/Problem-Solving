@@ -5,6 +5,7 @@ Here you can see the LeetCode problem that I solved.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2383-add-two-integers) |
@@ -33,6 +34,7 @@ Here you can see the LeetCode problem that I solved.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -47,6 +49,7 @@ Here you can see the LeetCode problem that I solved.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
