@@ -5,6 +5,7 @@ Here you can see the LeetCode problem that I solved.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
