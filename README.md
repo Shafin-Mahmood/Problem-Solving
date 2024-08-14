@@ -27,6 +27,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
@@ -71,4 +72,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
+## Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
