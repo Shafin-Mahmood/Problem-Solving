@@ -111,4 +111,12 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
