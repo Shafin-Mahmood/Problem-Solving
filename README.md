@@ -22,6 +22,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -81,6 +82,7 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Greedy
