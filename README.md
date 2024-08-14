@@ -25,6 +25,7 @@ Here you can see the LeetCode problem that I solved.
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -33,6 +34,7 @@ Here you can see the LeetCode problem that I solved.
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
@@ -47,6 +49,7 @@ Here you can see the LeetCode problem that I solved.
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -76,4 +79,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
