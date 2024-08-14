@@ -22,6 +22,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 ## String
@@ -31,6 +32,7 @@ Here you can see the LeetCode problem that I solved.
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
@@ -78,6 +80,7 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
