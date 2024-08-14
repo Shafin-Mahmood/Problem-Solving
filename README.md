@@ -20,6 +20,7 @@ Here you can see the LeetCode problem that I solved.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2048-build-array-from-permutation) |
@@ -93,4 +94,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
