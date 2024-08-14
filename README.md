@@ -32,6 +32,7 @@ Here you can see the LeetCode problem that I solved.
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
