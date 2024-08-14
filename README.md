@@ -21,4 +21,9 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
+## Hash Table
+|  |
+| ------- |
+| [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
