@@ -16,6 +16,7 @@ Here you can see the LeetCode problem that I solved.
 ## Array
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -27,4 +28,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
