@@ -12,4 +12,12 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2491-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
