@@ -21,12 +21,14 @@ Here you can see the LeetCode problem that I solved.
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
