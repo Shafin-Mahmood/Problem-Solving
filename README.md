@@ -31,6 +31,7 @@ Here you can see the LeetCode problem that I solved.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
@@ -98,4 +99,12 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
