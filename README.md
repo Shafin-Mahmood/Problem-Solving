@@ -6,6 +6,7 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2491-smallest-even-multiple) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -63,4 +64,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
