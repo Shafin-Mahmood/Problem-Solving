@@ -20,6 +20,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 ## String
 |  |
@@ -32,6 +33,7 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0782-jewels-and-stones) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 ## Matrix
 |  |
