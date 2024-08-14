@@ -20,6 +20,7 @@ Here you can see the LeetCode problem that I solved.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0035-search-insert-position) |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
@@ -103,6 +104,7 @@ Here you can see the LeetCode problem that I solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
