@@ -14,6 +14,7 @@ Here you can see the LeetCode problem that I solved.
 | [2491-smallest-even-multiple](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -32,6 +33,7 @@ Here you can see the LeetCode problem that I solved.
 | [2048-build-array-from-permutation](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3194-find-words-containing-character](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/3194-find-words-containing-character) |
 ## String
