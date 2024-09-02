@@ -7,6 +7,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0009-palindrome-number](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1806-count-of-matches-in-tournament](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1806-count-of-matches-in-tournament) |
@@ -142,4 +143,12 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
