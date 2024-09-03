@@ -41,6 +41,7 @@ Here you can see the LeetCode problem that I solved.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0020-valid-parentheses) |
@@ -58,6 +59,7 @@ Here you can see the LeetCode problem that I solved.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0389-find-the-difference) |
@@ -151,4 +153,8 @@ Here you can see the LeetCode problem that I solved.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
