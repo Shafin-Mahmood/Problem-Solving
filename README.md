@@ -7,6 +7,7 @@ Here you can see the LeetCode problem that I solved.
 | ------- |
 | [0009-palindrome-number](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0070-climbing-stairs) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -29,6 +30,7 @@ Here you can see the LeetCode problem that I solved.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0066-plus-one) |
 | [0948-sort-an-array](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/0948-sort-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shafin-Mahmood/Problem-Solving/tree/master/2048-build-array-from-permutation) |
